@@ -1,0 +1,7 @@
+.countryContainer{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 3px;
+    margin: 5px 30px;
+    
+}

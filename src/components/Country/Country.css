@@ -1,0 +1,18 @@
+
+
+.country{
+    width: 300px;
+    padding: 10px;
+    background-color: bisque;
+}
+
+.redText{
+    color: red;
+}
+
+.list{
+    list-style: none;
+}
+b{
+    color: blue;
+}
